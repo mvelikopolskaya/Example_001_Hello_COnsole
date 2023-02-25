@@ -1,0 +1,15 @@
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_003_Sum\bin\Debug\net7.0\Example_003_Sum.exe
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_003_Sum\bin\Debug\net7.0\Example_003_Sum.deps.json
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_003_Sum\bin\Debug\net7.0\Example_003_Sum.runtimeconfig.json
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_003_Sum\bin\Debug\net7.0\Example_003_Sum.dll
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_003_Sum\bin\Debug\net7.0\Example_003_Sum.pdb
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_003_Sum\obj\Debug\net7.0\Example_003_Sum.csproj.AssemblyReference.cache
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_003_Sum\obj\Debug\net7.0\Example_003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_003_Sum\obj\Debug\net7.0\Example_003_Sum.AssemblyInfoInputs.cache
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_003_Sum\obj\Debug\net7.0\Example_003_Sum.AssemblyInfo.cs
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_003_Sum\obj\Debug\net7.0\Example_003_Sum.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_003_Sum\obj\Debug\net7.0\Example_003_Sum.dll
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_003_Sum\obj\Debug\net7.0\refint\Example_003_Sum.dll
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_003_Sum\obj\Debug\net7.0\Example_003_Sum.pdb
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_003_Sum\obj\Debug\net7.0\Example_003_Sum.genruntimeconfig.cache
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_003_Sum\obj\Debug\net7.0\ref\Example_003_Sum.dll
