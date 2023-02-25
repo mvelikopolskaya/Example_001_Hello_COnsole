@@ -1,0 +1,15 @@
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Exanple_007_Magic\bin\Debug\net7.0\Exanple_007_Magic.exe
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Exanple_007_Magic\bin\Debug\net7.0\Exanple_007_Magic.deps.json
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Exanple_007_Magic\bin\Debug\net7.0\Exanple_007_Magic.runtimeconfig.json
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Exanple_007_Magic\bin\Debug\net7.0\Exanple_007_Magic.dll
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Exanple_007_Magic\bin\Debug\net7.0\Exanple_007_Magic.pdb
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Exanple_007_Magic\obj\Debug\net7.0\Exanple_007_Magic.csproj.AssemblyReference.cache
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Exanple_007_Magic\obj\Debug\net7.0\Exanple_007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Exanple_007_Magic\obj\Debug\net7.0\Exanple_007_Magic.AssemblyInfoInputs.cache
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Exanple_007_Magic\obj\Debug\net7.0\Exanple_007_Magic.AssemblyInfo.cs
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Exanple_007_Magic\obj\Debug\net7.0\Exanple_007_Magic.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Exanple_007_Magic\obj\Debug\net7.0\Exanple_007_Magic.dll
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Exanple_007_Magic\obj\Debug\net7.0\refint\Exanple_007_Magic.dll
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Exanple_007_Magic\obj\Debug\net7.0\Exanple_007_Magic.pdb
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Exanple_007_Magic\obj\Debug\net7.0\Exanple_007_Magic.genruntimeconfig.cache
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Exanple_007_Magic\obj\Debug\net7.0\ref\Exanple_007_Magic.dll
