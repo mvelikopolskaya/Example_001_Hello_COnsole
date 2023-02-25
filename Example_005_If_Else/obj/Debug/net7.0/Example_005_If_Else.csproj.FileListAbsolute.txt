@@ -1,0 +1,15 @@
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_005_If_Else\obj\Debug\net7.0\Example_005_If_Else.csproj.AssemblyReference.cache
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_005_If_Else\obj\Debug\net7.0\Example_005_If_Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_005_If_Else\obj\Debug\net7.0\Example_005_If_Else.AssemblyInfoInputs.cache
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_005_If_Else\obj\Debug\net7.0\Example_005_If_Else.AssemblyInfo.cs
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_005_If_Else\obj\Debug\net7.0\Example_005_If_Else.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_005_If_Else\bin\Debug\net7.0\Example_005_If_Else.exe
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_005_If_Else\bin\Debug\net7.0\Example_005_If_Else.deps.json
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_005_If_Else\bin\Debug\net7.0\Example_005_If_Else.runtimeconfig.json
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_005_If_Else\bin\Debug\net7.0\Example_005_If_Else.dll
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_005_If_Else\bin\Debug\net7.0\Example_005_If_Else.pdb
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_005_If_Else\obj\Debug\net7.0\Example_005_If_Else.dll
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_005_If_Else\obj\Debug\net7.0\refint\Example_005_If_Else.dll
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_005_If_Else\obj\Debug\net7.0\Example_005_If_Else.pdb
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_005_If_Else\obj\Debug\net7.0\Example_005_If_Else.genruntimeconfig.cache
+C:\Users\Мария\Documents\GB\Языки програаммирования\Examples\Example_005_If_Else\obj\Debug\net7.0\ref\Example_005_If_Else.dll
